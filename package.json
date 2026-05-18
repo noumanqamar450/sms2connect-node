@@ -1,0 +1,12 @@
+{
+  "name": "sms2connect-node",
+  "version": "1.0.0",
+  "description": "A lightweight, dependency-free Node.js wrapper for the SMS2Connect API using native fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sms", "sms2connect", "otp", "pakistan", "fetch"],
+  "author": "Nouman Qamar",
+  "license": "MIT"
+}
