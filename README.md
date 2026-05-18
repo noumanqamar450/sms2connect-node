@@ -23,13 +23,13 @@ Install the official package using your preferred package manager.
 
 ```bash
 npm install sms2connect-node
-
+```
 # or
-
+```bash
 yarn add sms2connect-node
-
+```
 # or
-
+```bash
 pnpm add sms2connect-node
 ```
 
