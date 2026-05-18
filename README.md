@@ -425,18 +425,6 @@ SMS2CONNECT_API_KEY=secret
 
 ---
 
-## Validate Phone Numbers
-
-Always validate mobile numbers before forwarding requests to the SDK.
-
-Example:
-
-```text
-+923001234567
-```
-
----
-
 # License
 
 MIT License
